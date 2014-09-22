@@ -44,6 +44,6 @@
 
 ## 鸣谢 | Thanks
 
-- Tiramisu 我的妻子，为了提供了示例中的图片，下面是她的一些作品：
+- Tiramisu 我的妻子，为我提供了示例中的图片，下面是她的一些作品：
 	- [Dribbble](http://dribbble.com/misu)
 	- [Behance](http://behance.net/tiramisu0801)
