@@ -21,13 +21,13 @@
 
 为了能使用这一特性，你需要使用一个 Xcode Asset Catalog 来管理你的图片。如下图，你需要将 Type 设置为 Vectors, 然后将你的 PDF 文件拖拽过去，Done!
 
-![project image]()
+![project image](https://raw.githubusercontent.com/0dayZh/VectorPDFSupportTest/master/project.png)
 
 ## 示例工程运行后的效果
 
-![iPhone 6 Plus]()
-![iPad Retina]()
-![iPhone 4s]()
+![iPhone 6 Plus](https://raw.githubusercontent.com/0dayZh/VectorPDFSupportTest/master/iPhone%206%20Plus.png)
+![iPad Retina](https://raw.githubusercontent.com/0dayZh/VectorPDFSupportTest/master/iPad%20Retina.png)
+![iPhone 4s](https://raw.githubusercontent.com/0dayZh/VectorPDFSupportTest/master/iPhone%204s.png)
 
 
 ## 更多资源 | More resources
