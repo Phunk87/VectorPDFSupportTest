@@ -36,3 +36,14 @@
 - WWDC 2014 [Session 411](https://developer.apple.com/videos/wwdc/2014/#411)
 - Apple Developer [Asset Catalog Guide](https://developer.apple.com/library/ios/recipes/xcode_help-image_catalog-1.0/Recipe.html)
 - Apple Developer [Interface Builder Guide](https://developer.apple.com/library/prerelease/ios/recipes/xcode_help-interface_builder/chapters/AboutInterfaceBuilder.html#//apple_ref/doc/uid/TP40009971-CH38-SW1)
+
+## 协议 | License
+
+- 源码使用 **MIT 开源协议**
+- 一切图片使用 **知识共享许可协议** 中的 **署名-非商业性使用-相同方式共享 (by-nc-sa)** ![](http://creativecommons.org/icons/by/standard.gif)![](http://creativecommons.org/icons/nc/standard.gif)![](http://creativecommons.org/icons/sa/standard.gif)
+
+## 鸣谢 | Thanks
+
+- Tiramisu 我的妻子，为了提供了示例中的图片，下面是她的一些作品：
+	- [Dribbble](http://dribbble.com/misu)
+	- [Behance](http://behance.net/tiramisu0801)
