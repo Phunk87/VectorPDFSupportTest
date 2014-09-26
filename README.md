@@ -16,7 +16,7 @@
 现在可以导出 vector PDF 的工具有
 
 - Photoshop
-- Illustrtor
+- Illustrator
 - Sketch 3
 
 ## 导入 PDF 到工程 | Import PDF to project
